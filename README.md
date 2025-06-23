@@ -60,6 +60,13 @@ EMAIL_HOST_USER=
 EMAIL_HOST_PASSWORD=
 GROQ_API_TOKEN=
 
+# Apply migrations:
+python manage.py migrate
+
+# Insert initial data into table from:
+Food_database.txt
+Exercise_database.txt
+
 # Run migrations and start the Django server:
 python manage.py migrate
 python manage.py runserver
