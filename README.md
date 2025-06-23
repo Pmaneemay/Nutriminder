@@ -93,7 +93,7 @@ flutter run
 
 ## 🌱 Environment Variables
 
-Both the backend (`backend/.env`) and frontend (`frontend/.env`) require configuration files based on the provided `.env.sample`. Ensure all API tokens, keys, and database credentials are properly filled in.
+Both the backend (`backend/.env`) and frontend (`frontend/.env`) require configuration files based on the provided `.ENV_SAMPLE`. Ensure all API tokens, keys, and database credentials are properly filled in.
 
 ---
 
